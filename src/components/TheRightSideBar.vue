@@ -20,7 +20,7 @@
     <strong class="ml-3 white--text">Overall Progress</strong><br>
     <strong class=" ml-3 grey--text caption">Pet Project</strong>
     <div class="mt-5 mb-5 text-center">
-      <v-progress-circular class="mt-5" :size="100" :width="12" :value="50" color="red">50%</v-progress-circular>
+      <v-progress-circular class="mt-5 font-weight-bold" :size="100" :width="12" :value="65" color="orange darken-2" fo>65%</v-progress-circular>
     </div>
     <strong class="ml-3 white--text">Recent Activites</strong><br>
     <strong class=" ml-3 grey--text caption">07 June 2022</strong>
